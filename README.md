@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Johnny. 👋
 
 <!--
 **just0johnny/just0johnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently trying to start on a project!
